@@ -1,0 +1,25 @@
+/* Write your code here. */
+.img {
+  height: 5vh;
+  width: 5vh;
+  border-radius: 5px;
+  filter: blur(1px);
+  cursor: pointer;
+}
+.imageDiv {
+  display: flex;
+  flex-direction: row;
+  margin-right: 2vh;
+  margin-top: 1vh;
+  border-radius: 3vh;
+}
+
+.noBlur {
+  filter: none;
+}
+button {
+  border: none;
+  background-color: white;
+  display: flex;
+  align-self: flex-start;
+}

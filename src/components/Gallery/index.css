@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+* {
+  font-family: 'Roboto';
+  margin: 0vh;
+}
+img {
+  height: 40vh;
+  width: 80vh;
+}
+.imageDiv {
+  display: flex;
+  flex-direction: row;
+}
+.mainContainer {
+  margin: 10vh;
+  box-shadow: 0px 0px 10px black;
+  align-items: center;
+  padding: 5vh;
+}
+h1 {
+  font-size: 3vh;
+  padding-top: 1vh;
+}
+p {
+  font-size: 12px;
+  padding-top: 1vh;
+  color: #64748b;
+}
